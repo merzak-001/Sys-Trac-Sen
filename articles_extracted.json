@@ -1,0 +1,1492 @@
+[
+  {
+    "code": "01022135",
+    "name": "Unité de mesure 420PC 40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023167",
+    "name": "Plomb à Sceller",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023351",
+    "name": "Turbine",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023356",
+    "name": "Plaque d'identification Marquée",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023357",
+    "name": "Couvercle DTTI 2.794 Marqué",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023397",
+    "name": "Capuchon A/P DN40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023399",
+    "name": "Boitier d'injection sans pivot",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023401",
+    "name": "Pivot",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03015004",
+    "name": "Fil de Plombage",
+    "unite_mesure": "m"
+  },
+  {
+    "code": "03081031",
+    "name": "Colorant rouge",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093218",
+    "name": "Carton d'emballage",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093373",
+    "name": "Ruban de cerclage 10 x 0.75",
+    "unite_mesure": "m"
+  },
+  {
+    "code": "03093376",
+    "name": "Boite en Carton 420 PC 40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03109187",
+    "name": "JOINT TOR 98 X 5 K 8259",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03156148",
+    "name": "vis de réglage M 12x1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110242",
+    "name": "PC Makrolon 2856 trasparant",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110267",
+    "name": "Polystyréne 495N  SB Naturel",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110363",
+    "name": "POM Kepital F20-03 nature",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48114248",
+    "name": "CORPS FX 017.01-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48115602",
+    "name": "Tete XTTI 707.01",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "70820681",
+    "name": "Grain de Saphir K 1005",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78108131",
+    "name": "BOUCHON M12 X 147-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78182410",
+    "name": "JOINT DE BOUCHON 6004-152 Klingersil C44",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78182449",
+    "name": "CREPINE 6007-160",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMPFMA",
+    "name": "MeiStream 300 50°C/PN16 L500 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021130",
+    "name": "Compteur 420PC15 SEAAL",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021134",
+    "name": "Compteur 420PC15 avec Clapet",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021149",
+    "name": "Compteur 420PC15 pour le Privé",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022053",
+    "name": "Clapet Antiretour 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022054",
+    "name": "Clapet Antiretour XRP20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022125",
+    "name": "Unité de mesure 420PC15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022126",
+    "name": "Unité de mesure 420PC20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023267",
+    "name": "Corps de clapet 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023268",
+    "name": "Rondelle soupape clapet",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023269",
+    "name": "Soupape de clapet 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023270",
+    "name": "Guide de soupape clapet 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023271",
+    "name": "Bouchon antipoussiére 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023272",
+    "name": "Bouchon antipoussiére 20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023343",
+    "name": "Cripine de Tubulure 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023352",
+    "name": "Cercle de glissement",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023398",
+    "name": "joint bouchon",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023404",
+    "name": "vis de réglage",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01033508",
+    "name": "support de montage",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01033509",
+    "name": "Couvercle de batterie",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01033510",
+    "name": "bouton 1 anti sabotage",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01033511",
+    "name": "Bouton 2 anti-sabotage",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093359",
+    "name": "Etiquette d'impréssion Code à barres",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093370",
+    "name": "Boite en Carton colective XRP/420PC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093380",
+    "name": "Etiquette d'impréssion bancsC2204",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03109185",
+    "name": "JOINT TOR 69 X 4 K 8191",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110266",
+    "name": "PS 168 L, nature",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48105004",
+    "name": "CORPS 170 3/4 FX 1.012.01",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48114237",
+    "name": "Gehäuse FX 014.01-2",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48115600",
+    "name": "Tête Laiton XTTI 704.01",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78126784",
+    "name": "CREPINE 21 x 44,5 Z 1921",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78182331",
+    "name": "BOUCHON  REGLAGE M10 X 1 6001-154",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021135",
+    "name": "Compteur 420PC20 avec clapet",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023264",
+    "name": "Boitier de Minuterie XN284",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023265",
+    "name": "Pignon XN4",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023266",
+    "name": "Platine inferieure",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023273",
+    "name": "Pignon XN7",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023274",
+    "name": "Pignon XN1D",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023275",
+    "name": "Pignon XN2D",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023276",
+    "name": "Pignon XN5",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023277",
+    "name": "Pignon XN8",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023278",
+    "name": "Pignon XTT9T1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023279",
+    "name": "Platine intermidiaire",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023280",
+    "name": "Roue d'indéxage XTT359",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023342",
+    "name": "Cripine Boitier Z1920 - 4",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023344",
+    "name": "Coussinet XTT319",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023345",
+    "name": "Carter XTT339 T1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023353",
+    "name": "Pignon XN3",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023358",
+    "name": "Platine Supérieure 420PC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023360",
+    "name": "Glace 420PC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023393",
+    "name": "Aiguille AH 380",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023394",
+    "name": "Aiguille AH 381",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023395",
+    "name": "Bague grise",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023396",
+    "name": "Bouchon Obturateur XTT340",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023400",
+    "name": "Entrainneur",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023402",
+    "name": "Vis sans fin",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023403",
+    "name": "Pointeur HRI 2.380 A T1 Fab",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023406",
+    "name": "Cadran marqué",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03062022",
+    "name": "Eau Déminiralisée",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110445",
+    "name": "ABS RAL 7035 light grey",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "70820662",
+    "name": "Minuterie 420 achetee",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78104898",
+    "name": "ETOILE (EVO10089) XN 374-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107284",
+    "name": "AXE POUR TAMBOUR XTT 348",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107285",
+    "name": "AXE PIGNON ENTRAINEUR XTT 349",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107330",
+    "name": "JOINT A LEVRE XTT 774",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78111689",
+    "name": "JOINT OBTURATEUR XTT 341",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78113749",
+    "name": "Plaque modulatrice totalisateur HRI",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115941",
+    "name": "TAMBOUR CENTRAL DN 2.350",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116107",
+    "name": "initial roll printed XTT 1.350",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "94020037",
+    "name": "joint 14x1,78",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "94020892",
+    "name": "joint 61x2 DIN 3771",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023036",
+    "name": "\"Douille 1/2\"\"\"",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023060",
+    "name": "Joint raccord 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023205",
+    "name": "\"Ecrou raccord 3/4\"\"\"",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023354",
+    "name": "Plaque d'identification",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023359",
+    "name": "Couvercle 420PC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03015008",
+    "name": "Film étirable",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093018",
+    "name": "Etiquette Individuelle",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021156",
+    "name": "Compteur 420 PC 40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022128",
+    "name": "Unité de mesure 420PC30",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023254",
+    "name": "Membrane pour Clapet 15",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023391",
+    "name": "Bouchon antipoussière DN30",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03109186",
+    "name": "JOINT TOR 73 X 4 NBR 70-SHORE K8198",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110201",
+    "name": "PE-HD Hostalen nature/BASEL",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "07012120",
+    "name": "EMBALLAGE INDIVIDUEL 248X100X130",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48114245",
+    "name": "Corps DN30 FX 016.106.01-2",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "48115601",
+    "name": "tete laiton Dn 30",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78113628",
+    "name": "CREPINE 31,8 X 65 Z 1924-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115604",
+    "name": "cercle de glissement XTTI 726",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021144",
+    "name": "Compteur 420PC15 SEOR",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021155",
+    "name": "compteur 420 PC 30",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022058",
+    "name": "Turbine Compléte",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022059",
+    "name": "Boitier d'injection complet",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022127",
+    "name": "Compteur 420PC15 Prémonté",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110277",
+    "name": "Matière Bouchons PE-LD 1800 H natur",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093368",
+    "name": "Etiquette Resultats Compteurs sur Primat",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093374",
+    "name": "Ruban d'impréssion largeur 110mm",
+    "unite_mesure": "m"
+  },
+  {
+    "code": "01023405",
+    "name": "plaque signalitique (cadran) FXTT353 ECH",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05020203",
+    "name": "Farbkonz. KEBACOLOR orange POM A00-2004R",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "94003115",
+    "name": "Kit Raccords 1 1/2 DN40 3 Pièces",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "AMRAB15B",
+    "name": "HRI-B4 D1 Z1 T124 1,5m 8L",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023044",
+    "name": "\"Douille 3/4\"\"\"",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023063",
+    "name": "Joint raccord 20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023206",
+    "name": "\"Ecrou raccord 1\"\"\"",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMGF4A",
+    "name": "MeiStream 50 50°C/PN16 L200 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMIG2E",
+    "name": "MeiStream 80 50°C/PN16 L225 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMMCJE",
+    "name": "MeiStream DN150 50°C/PN16 L300 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMHSEA",
+    "name": "MeiStream DN65 50°C/PN16 L200 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021153",
+    "name": "Compteur 420PC20 pour le Privé",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021158",
+    "name": "Compteur 420PC20 G1\" 190 C",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093375",
+    "name": "Boite en Carton 420 PC 30",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110215",
+    "name": "PA 6/6 30% GF nature",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110265",
+    "name": "Polystyréne PS 168 N cristal clair 013",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110352",
+    "name": "PA12 Grilamid L20G nature",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110353",
+    "name": "PP DuPure R76, nature",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68113390",
+    "name": "BOITE INJECTION COMPL XN 204-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102048",
+    "name": "PIGNON XN 1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102051",
+    "name": "PIGNON XN 2",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78103865",
+    "name": "crépine de siège (EVO10063) X 114-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01033512",
+    "name": "Lentille en transparent",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "94001587",
+    "name": "Kit Raccord R 11/4",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMKICE",
+    "name": "MeiStream 100 50°C/PN16 L250 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMLAQ1",
+    "name": "MeiStream 125 30°C/PN16 L250 R100",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMNLSA",
+    "name": "MEISTREAM 200 50°C/PN16 L350 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03062010",
+    "name": "Tessala Vaseline",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05020178",
+    "name": "Rowalid PS 2278 N red",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "AMRCA45B",
+    "name": "HRI-MEI B4 D10 Z1/Z10/Z100 T500 8-L 3m",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03081015",
+    "name": "Colorant blanc",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMMCJA",
+    "name": "MeiStream Plus 150 50°C/PN16 L300 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "WPDMODAE",
+    "name": "WPD 250 50°C/PN16 L450 B X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68102041",
+    "name": "TURBINE XN 276",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68102044",
+    "name": "BOITE INJECTION COMPL XN 206",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102052",
+    "name": "PIGNON XN 2A",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78104293",
+    "name": "Filtre 73 X 21,8 XN 116",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115996",
+    "name": "counter box XN 1.286-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116450",
+    "name": "glass XTTI 2.716",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116759",
+    "name": "Plaque signalétique XTTI 1.353",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78118184",
+    "name": "Pignon XTTI 1.3A",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023259",
+    "name": "Ressort de Compréssion",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03081030",
+    "name": "Colorant gris",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03081032",
+    "name": "Colorant Gris MB 66",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03091086",
+    "name": "Pipette de patte à diament rouge",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03091087",
+    "name": "Pipette de patte à diament noir",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03109372",
+    "name": "joint torique 70x2 EPDM 70 SHORE",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68102042",
+    "name": "Turbine complete XN 277/D",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68116906",
+    "name": "Boite d'injection XN 3.207",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102049",
+    "name": "PIGNON XN 1B",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102053",
+    "name": "PIGNON XN 2B",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78108125",
+    "name": "FILTRE 95 x 43,5 X 117",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116139",
+    "name": "Anneau d'adaptation  XTTI 1.287",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116156",
+    "name": "Boite de mesure XN 1.287",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116444",
+    "name": "Adapteur XTTI 2.727",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78118185",
+    "name": "Pignon XTTI 1.3B",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828597M",
+    "name": "WPDy 065 L200 Q15 B E PN16 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828605M",
+    "name": "WPD DN125 T50 PN16 L250",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F829549A",
+    "name": "WPDy-MS 050 L200 Q15 B E PN16 50° GGG40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F829550A",
+    "name": "WPDy 080 L225 Q15 B E PN16 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F829551A",
+    "name": "WPDy 100 L250 Q15 B E PN16 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F829552A",
+    "name": "WPDy 150 L300 Q15 B E PN16 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F829553D",
+    "name": "WPD 200 L350 Q15 B E PN16",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "WPDMQCEE",
+    "name": "WPDY 400 L500 Q1000 B E K1/10 PN16",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021138",
+    "name": "Compteur 420PC15 SEACO",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMHSDA",
+    "name": "MeiStream Plus 65 50°C/PN16 L200 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMHSDE",
+    "name": "MeiStream Plus 65 50°C/PN16 L300 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMIE0A",
+    "name": "WZ MS Plus 80 50°C/PN16 L225 R315 M F DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMKHLE",
+    "name": "MeiStream Plus 100 50°C/PN16 L250 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMKTT5",
+    "name": "MeiStreamPlus DN100 50°C/PN16 L250 R315",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMKTTE",
+    "name": "WZ MS Plus 150 50°C/PN16 L250 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "68115846",
+    "name": "Totalisateur a rouleaux XNI 303",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78116131",
+    "name": "BAGUE XNI 1.312 T1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021139",
+    "name": "Compteur 420PC20 SEACO",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093381",
+    "name": "Boite en carton avec croisillons",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00132811",
+    "name": "GOUPILLE DE SCELLEMENT MEISTREAM",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00132852",
+    "name": "ANNEAU DE TETE pour MEISTREAM",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00256046",
+    "name": "Bobine FIL DE PLOMBAGE 0,5 mm, Cu 0,3 mm",
+    "unite_mesure": "m"
+  },
+  {
+    "code": "03276112",
+    "name": "Plomb 10mm",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78103325",
+    "name": "CREPINE 16,5 x 45,5 Z 1922",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107557",
+    "name": "VIS DE REGLAGE M10 XTU 135-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115598",
+    "name": "Plaque d'identification",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115603",
+    "name": "Cercle de glissement",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78115985",
+    "name": "capuchon de tubulure GPN 805 G 3/4\"",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78117625",
+    "name": "Couvercle DTTI 4.794",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78182113",
+    "name": "Joint de bouchon",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093039",
+    "name": "Carton déclassé",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023260",
+    "name": "Membrane pour Clapet 2.5",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023346",
+    "name": "Corps de Clapet 20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023347",
+    "name": "Soupape de Clapet 20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023348",
+    "name": "Guide de Soupape clapet 20",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMOABG",
+    "name": "WZ MeiStream 250 50°C/PN16 L450 R100 DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMG",
+    "name": "MeiStream DN50 N° de base",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021146",
+    "name": "Compteur 420PC15 G3/4\" 170 C",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "94021865",
+    "name": "Unité de mesure XNI 393 ECH IC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110219",
+    "name": "PC LEXAN 161R transparent -111",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MODULMEH",
+    "name": "HRI-MEI B4/1000L/500ms/150-300",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03062031",
+    "name": "Encre de tampographie",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03062005",
+    "name": "Molycote Omnigliss",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093382",
+    "name": "caisse WPD 50 DDC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093383",
+    "name": "caisse WPD 65 DDBC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093384",
+    "name": "caisse WPD 80 DDBC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093385",
+    "name": "caisse WPD 125 DDBC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093386",
+    "name": "caisse WPD 150 DDBC",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00060481",
+    "name": "Vis M12X25 GB/T70.1-2000 , 1.4401",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00060482",
+    "name": "vIS M12X25 SK GB/T70.1-2000, 1.4401",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00060494",
+    "name": "vis M4x8 DIN933     1.4401 Fuzhou",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00060519",
+    "name": "VIS de plombage M12X25 SK G",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00060521",
+    "name": "VIS de plombage M16X40 SK GB/T5783-2000",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00107449",
+    "name": "anneau central WPD-MS",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00116961",
+    "name": "JOINT PLATEAU COMPTEUR DN40 A DN65",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00116989",
+    "name": "JOINT PLATEAU COMPTEUR DN80 A DN125",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00116990",
+    "name": "JOINT PLATEAU COMPTEUR DN150",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131315",
+    "name": "Couvercle´Sensus´",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131325",
+    "name": "Bride de tete noir",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131335",
+    "name": "capot de capteu MS-D blue, HRI mechanism",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131343",
+    "name": "proche de protection",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131400",
+    "name": "TOTALISATEUR DN50 / DN125 WPG meistream",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131401",
+    "name": "TOTALISATEUR DN150 / DN300 WPG meistream",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131910",
+    "name": "JOINT DE BRIDE DN50 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131911",
+    "name": "JOINT DE BRIDE DN80 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131913",
+    "name": "JOINT DE BRIDE DN150 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131916",
+    "name": "joint d'étanchité de bride",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131917",
+    "name": "joint bride",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00132260",
+    "name": "bride de tete bleu",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00132721",
+    "name": "BOITIER PORTE COUVERCLE DN40 A 300 meist",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00132723",
+    "name": "SOCLE PIVOTANT  DN40 A 300 WPG",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00133020",
+    "name": "Clips de couvercle",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "130006CH",
+    "name": "joint d'anneau central",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "C132398B",
+    "name": "Blue Body WPD50 PN16/50G L200 GGG40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "C132402B",
+    "name": "Corps WPD80 PN16/50G L225 GGG40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "C132410B",
+    "name": "Corps WPD150 PN16/50G L300 GGG40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "CB116812",
+    "name": "Corps WPD DN65 L=200MM",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "CB116821",
+    "name": "CORPS DE COMPTEUR WPD DN125 EF bleu",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828540B",
+    "name": "unité de mesure WPD DN65",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828578B",
+    "name": "unité de mesureM WPDy 080 Q40 Fuzhou",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828579B",
+    "name": "unité de mesure WPDy 150 Q150 K1/10 30°",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828639B",
+    "name": "unité de mesur WPD  50, 50°C/PN16",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828644B",
+    "name": "unité de mesureM WPDy 125",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "K00000093",
+    "name": "VIS M16x40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "K00000185",
+    "name": "Vis M12x25",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021161",
+    "name": "compteur WPD DN 50",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "S117801",
+    "name": "CAPTEUR RD 01 EF",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022143",
+    "name": "unité de mesure WPDy 50",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022144",
+    "name": "unité de mesure WPDy 65",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022145",
+    "name": "unité de mesure WPDy 80",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022146",
+    "name": "unité de mesure WPDy 125",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022147",
+    "name": "unité de mesure WPDy 150",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021162",
+    "name": "compteur WPD DN 65",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021164",
+    "name": "compteur WPD DN 125",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "05110223",
+    "name": "SAN Luran 368 R naturel",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78102058",
+    "name": "PIGNON XN 4",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107393",
+    "name": "PIGNON XN 7-1",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093371",
+    "name": "Boite en Carton colective Residia",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021165",
+    "name": "compteur WPD DN 150",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03093026",
+    "name": "Carton d'emballage RESIDIA",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021163",
+    "name": "compteur WPD DN 80",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "08900044",
+    "name": "Modul Hydro RF",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021167",
+    "name": "Compteur d'eau 420 015 L170",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022149",
+    "name": "Mécanisme WPD DN50",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022154",
+    "name": "Mécanisme WPD DN150",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "PLAST_RECYL",
+    "name": "déchets de matiére plastique",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "78107278",
+    "name": "PIGNON XTT 8",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMIG2A",
+    "name": "MeiStream Plus 80 50°C/PN16 L350 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMKHZE",
+    "name": "MeiStream Plus 100 50°C/PN16 L350 C X DZ",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMMBR2",
+    "name": "MEISTREAM  PLUS DN150 L=500 50° PN16",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03062028",
+    "name": "Cliché Alcool Tampographie 250x100mm",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "MSTMMBRB",
+    "name": "MS Plus DN150 50°C/PN16 L500 R315 DzSeal",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01023407",
+    "name": "rondelle 17x30x3 pour WPD DN150",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "IPLBBABA",
+    "name": "IPERL 015 L170 G¾ Q3_2.5 R800 868 F WMB",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "00131912",
+    "name": "JOINT DE BRIDE DN100 China",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "C132406B",
+    "name": "Blue Body WPD100 PN16/50G L250 GGG40",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "F828643B",
+    "name": "unité de mesureM WPDy 100",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01021166",
+    "name": "compteur WPD DN 100",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "01022148",
+    "name": "unité de mesure WPDy 100",
+    "unite_mesure": "pce"
+  },
+  {
+    "code": "03061031",
+    "name": "Huile Tiska HVI 46",
+    "unite_mesure": "l"
+  },
+  {
+    "code": "03101034",
+    "name": "Azote en bouteille",
+    "unite_mesure": "bt"
+  }
+]
